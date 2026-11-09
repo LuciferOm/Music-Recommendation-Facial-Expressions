@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+fer2013.csv
+*.keras
+.DS_Store

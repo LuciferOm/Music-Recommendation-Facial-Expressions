@@ -1,0 +1,9 @@
+{
+  "Happy":    ["Happy - Pharrell Williams", "Walking on Sunshine - Katrina and the Waves", "Can't Stop the Feeling - Justin Timberlake"],
+  "Sad":      ["Fix You - Coldplay", "Someone Like You - Adele", "Let Her Go - Passenger"],
+  "Angry":    ["Weightless - Marconi Union", "Clair de Lune - Debussy", "Breathe Me - Sia"],
+  "Neutral":  ["Sunflower - Post Malone", "Counting Stars - OneRepublic", "Blinding Lights - The Weeknd"],
+  "Fear":     ["Here Comes the Sun - The Beatles", "Three Little Birds - Bob Marley", "Don't Stop Believin' - Journey"],
+  "Surprise": ["Uptown Funk - Bruno Mars", "Shake It Off - Taylor Swift", "Levitating - Dua Lipa"],
+  "Disgust":  ["Better Together - Jack Johnson", "Put Your Records On - Corinne Bailey Rae", "Banana Pancakes - Jack Johnson"]
+}
